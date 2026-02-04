@@ -40,4 +40,4 @@ java GhostProject.Ghost
 Requires `words.txt` dictionary file in the `GhostProject` directory.
 
 ## Credits
-Base game logic adapted from professor-provided code. Extended with Player class and full game mechanics (elimination, multi-round play, victory conditions).
+Base game logic adapted from Professor Oren Steinberg's provided partial Ghost.java code. Extended with Player class and full game mechanics (elimination, multi-round play, victory conditions).
